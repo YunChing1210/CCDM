@@ -1,9 +1,9 @@
-books{color:white; blackground-color=gray;width:100%;}
+books{color:white;background-color:black;width:100%;}
 
 heading{
 color:green;
 font-size:40px;
-blackground-color:powderblue;
+background-color:powderblue;
 }
 
 heading,title,auother,publisher{
